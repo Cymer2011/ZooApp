@@ -1,0 +1,29 @@
+[
+  {
+    "id": "7fbf4191-59d6-4759-81d4-74a88d4f542d"
+  },
+  {
+    "Animalname": "Lion",
+    "id": "1"
+  },
+  {
+    "Animalname": "Wolf",
+    "id": "3"
+  },
+  {
+    "Animalname": "Horse",
+    "id": "4"
+  },
+  {
+    "Animalname": "Elephant",
+    "id": "5"
+  },
+  {
+    "Animalname": "Giraffe",
+    "id": "6"
+  },
+  {
+    "Animalname": "Bear",
+    "id": "7"
+  }
+]
